@@ -28,6 +28,7 @@ grafico2
 
 4. LISTA DE COMPONENTES:
 
+<img src="Carpeta de imagenes/equipo y materia.png">
 
 5. EXPLICACIÓN
 
