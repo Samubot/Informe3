@@ -4,6 +4,7 @@ ANÁLISIS DE NODOS
 <img src="Carpeta de imagenes/LOGO.png">
 
 1.OBJETIVOS
+
 • Verificar experimentalmente en forma cualitativa la propiedad de Superposición.
 
 • Conocer los fundamentos básicos del teorema de superposición.
@@ -12,13 +13,20 @@ ANÁLISIS DE NODOS
 
 2. MARCO TEÓRICO
 
+Algunos circuitos requieren la instalación de más de una fuente de voltaje o de corriente. Cuando en un circuito se utilizan múltiples fuentes, el teorema de superposición proporciona un método de análisis.
+
+grafico1
+
+Cuando se aplica el teorema de superposición, es importante reconocer cuando una fuente no es ideal y reemplazarla con su resistencia interna equivalente. Las fuentes de corriente no son tan comunes como las de voltaje y tampoco son siempre ideales. Si una fuente de corriente no es ideal, como en el caso de muchos transistores, deberá reemplazarse mediante su resistencia interna equivalente cuando se aplique el teorema de superposición.
+
+grafico2
+
+3.DIAGRAMAS:
+
+<img src="Carpeta de imagenes/DIAGRAMA.jpg">
 
 
-3.DIAGRAMAS
-
-
-
-4. LISTA DE COMPONENTES
+4. LISTA DE COMPONENTES:
 
 
 5. EXPLICACIÓN
