@@ -5,21 +5,14 @@ ANÁLISIS DE NODOS
 
 1.OBJETIVOS
 
-• Verificar experimentalmente en forma cualitativa la propiedad de Superposición.
-
-• Conocer los fundamentos básicos del teorema de superposición.
-
-• Comprobar las condiciones necesarias para que se cumpla el teorema de superposición.
+* Identificar las relaciones entre las corrientes que entran y salen del nodo
+* Hallar ecuaciones que me permitan resolver un circuito de manera analítica.
+• Verificar mediante una simulación que los resultados obtenidos numericamente son correctos.
+• Conocer los fundamentos básicos del análisis de nodos.
 
 2. MARCO TEÓRICO
 
-Algunos circuitos requieren la instalación de más de una fuente de voltaje o de corriente. Cuando en un circuito se utilizan múltiples fuentes, el teorema de superposición proporciona un método de análisis.
 
-grafico1
-
-Cuando se aplica el teorema de superposición, es importante reconocer cuando una fuente no es ideal y reemplazarla con su resistencia interna equivalente. Las fuentes de corriente no son tan comunes como las de voltaje y tampoco son siempre ideales. Si una fuente de corriente no es ideal, como en el caso de muchos transistores, deberá reemplazarse mediante su resistencia interna equivalente cuando se aplique el teorema de superposición.
-
-grafico2
 
 3.DIAGRAMAS:
 
@@ -36,9 +29,9 @@ grafico2
 
 6. CONCLUSIONES:
 
-• El uso y aplicación del teorema de superposición es de gran efectividad cuando hallamos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electróncico y queremos calcular la intensidad que fluye en algun elemento en especifico.
+• El uso y aplicación del análisis de nodos es de gran efectividad al momento de analizar un circuito, puesto que, nos permite identificar las relaciones entre las corrientes para que de esta forma podamos resolver el circuito.
 
-• En circuitos complejos no resulta práctico el uso de este método pero el mismo valida, por ejemplo, realizar cálculos por separado en un circuito estimulado con corrientes directa y alterna a la vez, como son los circuitos con elementos activos (transistores, circuitos operacionales, etc.), así como los estimulados con señales no sinusoidales.
+• En circuitos complejos no resulta práctico el uso de este método.
 
 • La corriente total a través de cualquier porción de red es igual a la suma algebraica de las corrientes producidas independientemente por cada fuente; o sea, para una red de dos fuentes, si la corriente producida por una fuente sigue una dirección, mientras que la producida por la otra va en sentido opuesto a través del mismo resistor, la corriente resultante será la diferencia entre las dos y tendrá la dirección de la mayor. Si las corrientes individuales tienen el mismo sentido, la corriente resultante será la suma de dos en la dirección de cualquiera de las corrientes. Esta regla es cierta para la tensión a través de una porción de la red, determinada por las polaridades y se puede extender a redes con cualquier número de fuentes.
 
