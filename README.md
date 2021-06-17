@@ -21,7 +21,7 @@ ANÁLISIS DE NODOS
 
 4. LISTA DE COMPONENTES:
 
-<img src="Carpeta de imagenes/equipo y material.png">
+<img src="Carpeta de imagenes/materiales.jpg">
 
 5. EXPLICACIÓN
 
