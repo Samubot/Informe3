@@ -64,4 +64,5 @@ vinu
 
 7. BIBLIOGRAFÍA:
 
+alexanderitc(2019), "Análisis de nodos - Circuito con dos fuentes de voltaje DC" [Video] Recuperado de: youtube.com/watch?v=_Xd9LYtJbfw
 
