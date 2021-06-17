@@ -47,14 +47,15 @@ vinu
 
 6. CONCLUSIONES:
 
-• El uso y aplicación del análisis de nodos es de gran efectividad al momento de analizar un circuito, puesto que, nos permite identificar las relaciones entre las corrientes para que de esta forma podamos resolver el circuito.
+* El uso y aplicación del análisis de nodos es de gran efectividad al momento de analizar un circuito, puesto que, nos permite identificar las relaciones entre las corrientes para que de esta forma podamos resolver el circuito.
 
-• En circuitos complejos nos resulta práctico el uso de este método.
+* En circuitos complejos nos resulta práctico el uso de este método.
 
 * Nos resulta muy util conocer sobre la ley de Kirchoff al momento de hacer los análisis, puesto que este método se basa en esta al momento de sacar ecuaciones.
+
 * Comprobamos que los valores obtenidos mediante el uso de las leyes Kirchhoff en cada nodo fueron muy semejantes a los obtenidos mediante simulación con pequeños margenes de error.
-* 
-Asi mismo tanto para las tablas obtenidas, se comprobó el uso de la ley de Kirchhoff, mediante las ecuaciones encontradas, los cálculos obtenidos nos asemejan a una silmulación real, todo este proceso de usar las leyes antes mencionadas nos permiten a que los valores sean precisos y casi exactos, apoyandonos del mismo ciruito para usar las fórmulas como la dirección de los voltajes y las ubicaciones de las resistencias, sus trayectorias y el análisis imperial sobre como usarlas correctamente.
+
+
 7. BIBLIOGRAFÍA:
 
 
