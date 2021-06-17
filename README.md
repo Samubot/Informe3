@@ -13,6 +13,12 @@ ANÁLISIS DE NODOS
 
 * Conocer los fundamentos básicos del análisis de nodos para reforzar los conocimientos.
 
+1.1 REQUISITOS PREVIOS
+
+* Tener conceptos básicos para el uso de instrumentación
+* Conocer como transformar unidades y sus abreviaciones.
+* Manejo básico de Tinkercad para el armado de circuitos
+* Saber ley de Ohm y leyes de Kirchhoff.
 
 2. MARCO TEÓRICO:
 
