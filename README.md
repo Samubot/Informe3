@@ -50,7 +50,9 @@ Para el análisis de nodos, se necesita hallar los voltajes de nodo.  Siendo un 
 
 5. EXPLICACIÓN:
 
-7.1 Arme el circuito que se presenta en la figura 3.1.
+5.1 Arme el circuito que se presenta en la figura 3.1.
+
+<img src="Carpeta de imagenes/CIR.jpg">
 
 
 
