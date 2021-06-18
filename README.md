@@ -61,7 +61,7 @@ Para el análisis de nodos, se necesita hallar los voltajes de nodo.  Siendo un 
 <img src="Carpeta de imagenes/NODO.jpg">
 
 <img src="Carpeta de imagenes/INTENSIDAD.jpg">
-<img src="Carpeta de imagenes/RESOLUCION.jpg">
+<img src="Carpeta de imagenes/final.jpg">
 <img src="Carpeta de imagenes/RESPUESTA.jpg">
 <img src="Carpeta de imagenes/TODAS RESISTENCIAS.jpg">
 
