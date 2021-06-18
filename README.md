@@ -56,6 +56,10 @@ Para el análisis de nodos, se necesita hallar los voltajes de nodo.  Siendo un 
 
 5.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
 
+<img src="Carpeta de imagenes/VOLTAJE.jpg">
+
+<img src="Carpeta de imagenes/NODO.jpg">
+
 
 
 
