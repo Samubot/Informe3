@@ -67,6 +67,8 @@ Para el análisis de nodos, se necesita hallar los voltajes de nodo.  Siendo un 
 
 5.3 Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
+<img src="Carpeta de imagenes/COMPARACIÓN.jpg">
+
 Obtenemos que tanto los valores realizados mediante los calculos de los valores y de los voltajes en los nodos se asemejan a los obtenidos con el sotfware Multisim, con una leve diferencia en sus decimales, eso nos da a entender que cada valor se encuentra correctamente y se implemento de manera adecuada las LCK.
 
 
