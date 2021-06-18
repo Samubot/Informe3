@@ -22,6 +22,7 @@ ANÁLISIS DE NODOS
 
 2. MARCO TEÓRICO:
 
+Para el análisis de nodos, se necesita hallar los voltajes de nodo.  Siendo un nodo la unión de mas de 2 elementos (resistencias, fuentes de voltaje, fuentes de corriente, etc.) dentro de un circuito eléctrico. La ventaja de aplicar este método es el número de incógnitas, puesto que si usamos alguno de los métodos convencionales, el análisis se volvería complejo con altas probabilidades de cometer errores.
 
 ![Analisis de nodos](https://user-images.githubusercontent.com/84453557/122486349-8484a500-cf9e-11eb-8828-16a076848c43.png)
 
@@ -68,6 +69,6 @@ ANÁLISIS DE NODOS
 7. BIBLIOGRAFÍA:
 
 alexanderitc(2019), "Análisis de nodos - Circuito con dos fuentes de voltaje DC" [Video] Recuperado de: youtube.com/watch?v=_Xd9LYtJbfw
-Recuperado de: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
-Recuperado de: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
+"Técnicas de análisis sistemático de circuitos: Análisis por mallas y nodos". Recuperado de: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
+"Introduccion al analisis de nodos". Recuperado de: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
 
