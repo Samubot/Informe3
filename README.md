@@ -88,7 +88,7 @@ https://youtu.be/qEY55MlPpjs
 * Comprobamos que los valores obtenidos mediante el uso de las leyes Kirchhoff en cada nodo fueron muy semejantes a los obtenidos mediante simulación con pequeños margenes de error.
 
 
-7. BIBLIOGRAFÍA:
+8. BIBLIOGRAFÍA:
 
 alexanderitc(2019), "Análisis de nodos - Circuito con dos fuentes de voltaje DC" [Video] Recuperado de: youtube.com/watch?v=_Xd9LYtJbfw
 
