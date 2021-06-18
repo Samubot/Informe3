@@ -54,6 +54,8 @@ Para el análisis de nodos, se necesita hallar los voltajes de nodo.  Siendo un 
 
 <img src="Carpeta de imagenes/CIR.jpg">
 
+5.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
+
 
 
 
