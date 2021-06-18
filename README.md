@@ -22,7 +22,10 @@ ANÁLISIS DE NODOS
 
 2. MARCO TEÓRICO:
 
-vinu
+
+![Analisis de nodos](https://user-images.githubusercontent.com/84453557/122486349-8484a500-cf9e-11eb-8828-16a076848c43.png)
+
+
 
 3. DIAGRAMAS:
 
@@ -65,4 +68,6 @@ vinu
 7. BIBLIOGRAFÍA:
 
 alexanderitc(2019), "Análisis de nodos - Circuito con dos fuentes de voltaje DC" [Video] Recuperado de: youtube.com/watch?v=_Xd9LYtJbfw
+Recuperado de: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
+Recuperado de: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
 
