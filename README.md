@@ -69,6 +69,8 @@ Para el análisis de nodos, se necesita hallar los voltajes de nodo.  Siendo un 
 7. BIBLIOGRAFÍA:
 
 alexanderitc(2019), "Análisis de nodos - Circuito con dos fuentes de voltaje DC" [Video] Recuperado de: youtube.com/watch?v=_Xd9LYtJbfw
+
 "Técnicas de análisis sistemático de circuitos: Análisis por mallas y nodos". Recuperado de: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
+
 "Introduccion al analisis de nodos". Recuperado de: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
 
