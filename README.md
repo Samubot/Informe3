@@ -75,7 +75,7 @@ Obtenemos que tanto los valores realizados mediante los calculos de los valores 
 
 6 VIDEO:
 
-
+https://youtu.be/qEY55MlPpjs
 
 7. CONCLUSIONES:
 
