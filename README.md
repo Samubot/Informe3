@@ -30,6 +30,8 @@ Para el análisis de nodos, se necesita hallar los voltajes de nodo.  Siendo un 
 
 3. DIAGRAMAS:
 
+3.1)
+
 <img src="Carpeta de imagenes/DIAGRAMA.jpg">
 
 
@@ -48,14 +50,17 @@ Para el análisis de nodos, se necesita hallar los voltajes de nodo.  Siendo un 
 
 5. EXPLICACIÓN:
 
+7.1 Arme el circuito que se presenta en la figura 3.1.
 
 
 
-5.1 VIDEO:
+
+
+6 VIDEO:
 
 
 
-6. CONCLUSIONES:
+7. CONCLUSIONES:
 
 * El uso y aplicación del análisis de nodos es de gran efectividad al momento de analizar un circuito, puesto que, nos permite identificar las relaciones entre las corrientes para que de esta forma podamos resolver el circuito.
 
